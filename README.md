@@ -7,10 +7,10 @@ Throughout the project i will update this file to keep it up to date with the sc
 
 ## Themes?
 ### Pick One 
-+Astrology?
-+Skateboarding?
-+Coding?
-+Jokes?
++ Astrology?
++ Skateboarding?
++ Coding?
++ Jokes?
 
 ### Created By: 
->Jake Muirhead
+> Jake Muirhead
